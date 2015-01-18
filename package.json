@@ -1,0 +1,22 @@
+{
+  "name": "ec-fixtures",
+  "version": "0.0.0",
+  "description": "fixtures for elizabeth and clarke",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Buritica/ec-fixtures.git"
+  },
+  "author": "buritica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Buritica/ec-fixtures/issues"
+  },
+  "homepage": "https://github.com/Buritica/ec-fixtures",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}

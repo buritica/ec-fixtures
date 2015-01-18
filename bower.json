@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "main": "index.js",
+  "version": "y",
+  "homepage": "https://github.com/Buritica/ec-fixtures",
+  "authors": [
+    "Juan Pablo Buritica <buritica@gmail.com>"
+  ],
+  "description": "fixtures for elizabeth and clarke",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
