@@ -1,7 +1,7 @@
 {
-  "name": "y",
+  "name": "ec-fixtures",
   "main": "index.js",
-  "version": "y",
+  "version": "0.0.0",
   "homepage": "https://github.com/Buritica/ec-fixtures",
   "authors": [
     "Juan Pablo Buritica <buritica@gmail.com>"
