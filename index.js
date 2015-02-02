@@ -1,9 +1,9 @@
 import products from './lib/products';
 import collections from './lib/collections';
-import subscriptions from './lib/subscriptions';
+import plans from './lib/plans';
 
 export {
   products,
   collections,
-  subscriptions
+  plans
 };
