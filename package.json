@@ -1,6 +1,6 @@
 {
   "name": "ec-fixtures",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "fixtures for elizabeth and clarke",
   "main": "index.js",
   "scripts": {
